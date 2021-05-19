@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="60px">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="50px">
   <br><br>
   <samp>
 I am a Python Developer. Interested in web frameworks and everything related to Python. I love to code and learning new stuff. Working through #100DaysOfCode
-     <br><br>Contact me on <a href="https://twitter.com/lenargasimov">Twitter</a>, <a href="https://www.linkedin.com/in/lenargasimov/">Linkedin</a>, or <a href="mailto:lenargasimovdev@gmail.com">Send an Email</a>
+     <br><br>Contact me on <a href="https://twitter.com/lenargasimov" target="_blank">Twitter</a>, <a href="https://www.linkedin.com/in/lenargasimov/" target="_blank">Linkedin</a>, or <a href="mailto:lenargasimovdev@gmail.com">Send an Email</a>
   </samp>
 </p>
 
