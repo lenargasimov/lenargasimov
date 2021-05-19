@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="27px">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="60px">
   <br><br>
   <samp>
 I am a Python Developer. Interested in web frameworks and everything related to Python. I love to code and learning new stuff. Working through #100DaysOfCode
