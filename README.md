@@ -46,6 +46,11 @@
 <a href="https://github.com/lenargasimov/bot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenargasimov&repo=bot&theme=default&show_owner=true" /></a>&nbsp;<a href="https://github.com/lenargasimov/100-days-of-python"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenargasimov&repo=100-days-of-python&theme=default&show_owner=true" /></a>
 
 <a href="https://github.com/lenargasimov/dj-booking"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenargasimov&repo=dj-booking&theme=default&show_owner=true" /></a>&nbsp;<a href="https://github.com/lenargasimov/blog"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenargasimov&repo=blog&theme=default&show_owner=true" /></a>
+
+## Thank you!
+
+If you want to give :octocat: GitHub star to any of my projects, **I would be very grateful**! ☺️ 
+
 <!--
 **lenargasimov/lenargasimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
