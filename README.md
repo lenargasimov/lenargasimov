@@ -28,8 +28,6 @@
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="devicon" height="50" width="50" />
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="devicon" height="50" width="50" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="devicon" height="50" width="50" />
-<!-- 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="devicon" height="50" width="50" /> -->
-<!-- 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="devicon" height="50" width="50" /> -->
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" height="80" width="80" />
  	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" height="80" width="80" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="devicon" height="50" width="50" />
@@ -45,7 +43,7 @@
 
 ## Awesome projects by me or with my active support
 
-<a href="https://github.com/lenargasimov/lenargasimov.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenargasimov&repo=lenargasimov.github.io&theme=default&show_owner=true" /></a><a href="https://github.com/lenargasimov/blog"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenargasimov&repo=blog&theme=default&show_owner=true" /></a><
+<a href="https://github.com/lenargasimov/lenargasimov.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenargasimov&repo=lenargasimov.github.io&theme=default&show_owner=true" /></a><a href="https://github.com/lenargasimov/blog"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenargasimov&repo=blog&theme=default&show_owner=true" /></a>
 
 <a href="https://github.com/lenargasimov/stickerbot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenargasimov&repo=stickerbot&theme=default&show_owner=true" /></a><a href="https://github.com/lenargasimov/100-days-of-python"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenargasimov&repo=100-days-of-python&theme=default&show_owner=true" /></a>
 
