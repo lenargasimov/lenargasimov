@@ -20,8 +20,8 @@
 
 </p>
 
+## Technologies
 <!-- Technologies I know -->
-<h3 align="left">Technologies I know:</h3>
 <p align="center">
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="devicon" height="50" width="50" />
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="devicon" height="50" width="50" />
@@ -39,7 +39,7 @@
 
 ## Statistics
 
-<a href="https://github.com/lenargasimov"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenargasimov&theme=default&hide=python,javascript,html,css" /></a>&nbsp;<a href="https://github.com/lenargasimov"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lenargasimov&show_icons=true&theme=default&line_height=25" alt="lenar's github stats" /></a>
+<a href="https://github.com/lenargasimov"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenargasimov&theme=default&hide=css,scss,html,less,coffeescript,typescript,jupyter notebook" /></a>&nbsp;<a href="https://github.com/lenargasimov"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lenargasimov&show_icons=true&theme=default&line_height=25" alt="lenar's github stats" /></a>
 
 <!--
 **lenargasimov/lenargasimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
