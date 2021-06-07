@@ -39,7 +39,7 @@
 
 ## Statistics
 
-<a href="https://github.com/lenargasimov"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenargasimov&theme=default&hide=css,scss,html,less,coffeescript,typescript,jupyter notebook" /></a>&nbsp;<a href="https://github.com/lenargasimov"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lenargasimov&show_icons=true&theme=default&line_height=25" alt="lenar's github stats" /></a>
+<a href="https://github.com/lenargasimov"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenargasimov&theme=default&hide=scss,html,less,coffeescript,typescript,jupyter notebook" /></a>&nbsp;<a href="https://github.com/lenargasimov"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lenargasimov&show_icons=true&theme=default&line_height=25" alt="lenar's github stats" /></a>
 
 ## Awesome projects by me or with my active support
 
