@@ -41,6 +41,11 @@
 
 <a href="https://github.com/lenargasimov"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenargasimov&theme=default&hide=css,scss,html,less,coffeescript,typescript,jupyter notebook" /></a>&nbsp;<a href="https://github.com/lenargasimov"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lenargasimov&show_icons=true&theme=default&line_height=25" alt="lenar's github stats" /></a>
 
+## Awesome projects by me or with my active support
+
+<a href="https://github.com/lenargasimov/bot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenargasimov&repo=bot&theme=default&show_owner=true" /></a>&nbsp;<a href="https://github.com/lenargasimov/100-days-of-python"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenargasimov&repo=100-days-of-python&theme=default&show_owner=true" /></a>
+
+<a href="https://github.com/lenargasimov/dj-booking"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenargasimov&repo=dj-booking&theme=default&show_owner=true" /></a>&nbsp;<a href="https://github.com/lenargasimov/blog"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenargasimov&repo=blog&theme=default&show_owner=true" /></a>
 <!--
 **lenargasimov/lenargasimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
