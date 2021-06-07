@@ -17,6 +17,8 @@
   </samp>
   <br><br>
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="60px">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lenargasimov&label=Profile%20views&color=0e75b6&style=flat" alt="lenargasimov" /> </p>
+
 
 </p>
 
