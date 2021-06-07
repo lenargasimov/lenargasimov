@@ -45,9 +45,10 @@
 
 ## Awesome projects by me or with my active support
 
-<a href="https://github.com/lenargasimov/bot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenargasimov&repo=bot&theme=default&show_owner=true" /></a>&nbsp;<a href="https://github.com/lenargasimov/100-days-of-python"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenargasimov&repo=100-days-of-python&theme=default&show_owner=true" /></a>
+<a href="https://github.com/lenargasimov/lenargasimov.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenargasimov&repo=lenargasimov.github.io&theme=default&show_owner=true" /></a><a href="https://github.com/lenargasimov/blog"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenargasimov&repo=blog&theme=default&show_owner=true" /></a><
 
-<a href="https://github.com/lenargasimov/dj-booking"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenargasimov&repo=dj-booking&theme=default&show_owner=true" /></a>&nbsp;<a href="https://github.com/lenargasimov/blog"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenargasimov&repo=blog&theme=default&show_owner=true" /></a>
+<a href="https://github.com/lenargasimov/stickerbot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenargasimov&repo=stickerbot&theme=default&show_owner=true" /></a><a href="https://github.com/lenargasimov/100-days-of-python"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenargasimov&repo=100-days-of-python&theme=default&show_owner=true" /></a>
+
 
 ## Thank you!
 
