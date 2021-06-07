@@ -37,6 +37,10 @@
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="devicon" height="50" width="50" />
 </p>
 
+## Statistics
+
+<a href="https://github.com/lenargasimov"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenargasimov&theme=default&hide=python,javascript,html,css" /></a>&nbsp;<a href="https://github.com/lenargasimov"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lenargasimov&show_icons=true&theme=default&line_height=25" alt="lenar's github stats" /></a>
+
 <!--
 **lenargasimov/lenargasimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
