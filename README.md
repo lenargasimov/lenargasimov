@@ -1,5 +1,7 @@
 <!-- ### Hi there 👋
  -->
+ 
+ <!-- Navbar -->
 <p align="center">
   
   <samp>
@@ -16,6 +18,23 @@
   <br><br>
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="60px">
 
+</p>
+
+<!-- Technologies I know -->
+<h3 align="left">Technologies I know:</h3>
+<p align="center">
+		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="devicon" height="50" width="50" />
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="devicon" height="50" width="50" />
+		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="devicon" height="50" width="50" />
+<!-- 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="devicon" height="50" width="50" /> -->
+<!-- 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="devicon" height="50" width="50" /> -->
+		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" height="80" width="80" />
+ 	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" height="80" width="80" />
+		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="devicon" height="50" width="50" />
+		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="devicon" height="50" width="50" />
+		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="50" width="50" />
+		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="devicon" height="50" width="50" />
+		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="devicon" height="50" width="50" />
 </p>
 
 <!--
