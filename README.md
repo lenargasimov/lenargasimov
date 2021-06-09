@@ -2,8 +2,8 @@
 Hello world! <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="60px"> 
 </H1>
 
-[![](https://img.shields.io/badge/About%20me-%20visit%20my%20site-brightgreen)](https://lenargasimov.dev/templates/about.html)
-[![](https://img.shields.io/badge/Blog-%20visit%20my%20blog-lightgrey)](https://lenar-blog.herokuapp.com)
+[![](https://img.shields.io/badge/About%20me-%20my%20site-brightgreen)](https://lenargasimov.dev/templates/about.html)
+[![](https://img.shields.io/badge/Blog-%20my%20blog-lightgrey)](https://lenar-blog.herokuapp.com)
 [![](https://img.shields.io/badge/LinkedIn-lenargasimov-0077B5?logo=LinkedIn&logoColor=white&style=flat-square)](https://www.linkedin.com/in/lenargasimov)
 [![](https://img.shields.io/badge/Twitter-lenargasimov-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/lenargasimov)
 [![](https://img.shields.io/badge/Last.fm-lenargasimov-D51007?logo=last.fm&logoColor=white&style=flat-square)](https://www.last.fm/user/lenargasimov)
