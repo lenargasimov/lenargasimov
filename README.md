@@ -17,7 +17,7 @@ Hello world! <img src="https://octodex.github.com/images/daftpunktocat-thomas.gi
 </p>
 
 <!-- Technologies I know -->
-<p align="center">
+<h3 align="center">
 	💻 Technology Stack <br/><br/>
 	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="devicon" height="50" width="50" />
 	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="devicon" height="50" width="50" />
@@ -30,13 +30,13 @@ Hello world! <img src="https://octodex.github.com/images/daftpunktocat-thomas.gi
 	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="devicon" height="50" width="50" />
 	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="devicon" height="50" width="50" />
 	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="devicon" height="50" width="50" />
-</p>
+</h3>
 
 <!-- Statistics -->
-<p align='center'>
+<h3 align='center'>
 	⚡ GitHub Stats <br/><br/>
 	<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lenargasimov&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
+</h3>
 
 <p align='center'>
   <a href="#"> <img src="https://komarev.com/ghpvc/?username=lenargasimov&label=Visits&color=0e75b6&style=flat" alt="lenargasimov" /></a> hipsters and nerds have come here
