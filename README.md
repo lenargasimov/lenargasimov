@@ -31,7 +31,6 @@
 	💻 Technology Stack <br/><br/>
 	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="devicon" height="50" width="50" />
 	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="devicon" height="50" width="50" />
-	<!-- 	  	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="devicon" height="50" width="50" /> -->
 	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" height="80" width="80" />
 	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" height="80" width="80" />
 	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="devicon" height="50" width="50" />
@@ -40,6 +39,7 @@
 	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="devicon" height="50" width="50" />
 	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="devicon" height="50" width="50" />
 	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="devicon" height="50" width="50" />
+	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original-wordmark.svg" alt="devicon" height="" width="120" />
 </h3>
 
 <!-- Statistics -->
@@ -67,6 +67,7 @@
 📍 **London App Brewery** - Udemy
 
 
+
 ## Experience
 
 
@@ -74,16 +75,16 @@
 📆 2020 - 2020\
 📍 **CodesFord** - Melbourne, Victoria, Australia
 
-<img alt="" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-<img align="" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=whit" />
-<img align="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+<img alt="" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-squaree&logo=figma&logoColor=white"/>	
+<img align="" src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white" />
+<img align="" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" />
+<img align="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+<img align="" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img align="" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img align="" src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=whit" />
+<img align="" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
+<img align="" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+<img align="" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
 
 
 </details>
