@@ -1,7 +1,8 @@
 <H1 align='center'>
-Hello world! <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="60px"> 
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="60px">Hello world! 
 </H1>
 
+<!-- Navbar links -->
 [![](https://img.shields.io/badge/About%20me-%20my%20site-brightgreen)](https://lenargasimov.dev/templates/about.html)
 [![](https://img.shields.io/badge/Blog-%20my%20blog-lightgrey)](https://lenar-blog.herokuapp.com)
 [![](https://img.shields.io/badge/LinkedIn-lenargasimov-0077B5?logo=LinkedIn&logoColor=white&style=flat-square)](https://www.linkedin.com/in/lenargasimov)
@@ -12,9 +13,18 @@ Hello world! <img src="https://octodex.github.com/images/daftpunktocat-thomas.gi
 <br/>
 <br/>
 
+<!-- Spotify -->
 <p align='center'>
 	<a href="#"><img src="https://spotify-recently-played-readme.vercel.app/api?user=lyc5820s2tgyaacnm646qlk8h"></a>
 </p>
+
+<!-- Latest posts -->
+<div align='center'>
+	<h3>⌨️ My latest posts</h3>
+  <p><a href="https://lenar-blog.herokuapp.com/post/5"><b>🐍 100 Days of Python</b></a><br/><i> The Complete Python Pro Bootcamp for 2021</i></p>
+  <p><a href="https://lenar-blog.herokuapp.com/post/7"><b>🏃‍♂️ 60. Atomic Habits. James Clear.</b></a><br/><i>Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones.</i></p>
+  <p><a href="https://lenar-blog.herokuapp.com/post/1"><b>🔥 Norwegian Wood: Chopping, Stacking, and Drying Wood the Scandinavian Way</b></a><br/><i>Chop your wood and it will warm you twice</i></p>
+</div>
 
 <!-- Technologies I know -->
 <h3 align="center">
@@ -49,7 +59,6 @@ Hello world! <img src="https://octodex.github.com/images/daftpunktocat-thomas.gi
 <!--  Resume -->
 <details>
   <summary>📃 Resume</summary>
-
 
 ## Education
 
