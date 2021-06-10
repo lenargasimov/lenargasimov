@@ -39,7 +39,7 @@ Hello world! <img src="https://octodex.github.com/images/daftpunktocat-thomas.gi
 </h3>
 
 <p align='center'>
-  <a href="#"> <img src="https://komarev.com/ghpvc/?username=lenargasimov&label=Visits&color=0e75b6&style=flat" alt="lenargasimov" /></a> hipsters and nerds have come here
+  <a href="#"> <img src="https://komarev.com/ghpvc/?username=lenargasimov&label=Visits&color=0e75b6&style=flat" alt="lenargasimov" /></a> hipsters and nerds have come here 🤪
 </p>
 
 <p align="center">
