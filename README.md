@@ -56,9 +56,9 @@
 	If you want to give :octocat: GitHub star to any of my projects, I would be very grateful! ☺️
 </p>
 
-<!--  Resume -->
+<!--  CV -->
 <details>
-  <summary>📃 Resume</summary>
+  <summary>📃 CV</summary>
 
 ## Education
 
@@ -86,7 +86,9 @@
 <img align="" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 <img align="" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
 
-
+### See more
+<p><a href="https://lenargasimov.dev/templates/cv.html">https://lenargasimov.dev/cv</p>
+	
 </details>
 
 
