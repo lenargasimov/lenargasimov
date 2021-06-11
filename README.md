@@ -10,9 +10,6 @@
 [![](https://img.shields.io/badge/Last.fm-lenargasimov-D51007?logo=last.fm&logoColor=white&style=flat-square)](https://www.last.fm/user/lenargasimov)
 [![](https://img.shields.io/badge/Soundcloud-lenargasimov-FF7700?logo=soundcloud&logoColor=white&style=flat-square)](https://soundcloud.com/lenargasimov)
 
-<br/>
-<br/>
-
 <!-- Spotify -->
 <p align='center'>
 	<a href="#"><img src="https://spotify-recently-played-readme.vercel.app/api?user=lyc5820s2tgyaacnm646qlk8h"></a>
@@ -28,7 +25,7 @@
 
 <!-- Technologies I know -->
 <h3 align="center">
-	💻 Technology Stack <br/><br/>
+	💻 Technology Stack <br/>
 	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="devicon" height="50" width="50" />
 	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="devicon" height="50" width="50" />
 	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" height="80" width="80" />
