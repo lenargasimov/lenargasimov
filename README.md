@@ -23,7 +23,7 @@
 
 <!-- Statistics -->
 <h3 align='center'>
-	<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lenargasimov&show_icons=true&count_private=true&theme=dark" width="350"></a>
+	<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lenargasimov&show_icons=true&count_private=true&theme=dark" width="400"></a>
 </h3>
 
 <!-- Technologies I know -->
@@ -70,16 +70,16 @@
 📆 2020 - 2020\
 📍 **CodesFord** - Melbourne, Victoria, Australia
 
-<img alt="" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-squaree&logo=figma&logoColor=white"/>	
-<img align="" src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=whit" />
-<img align="" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+<img alt="" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>	
+<img align="" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img align="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img align="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img align="" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img align="" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img align="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img align="" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+<img align="" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 
 ### See more
 <p><a href="https://lenargasimov.dev/templates/cv.html">https://lenargasimov.dev/cv</p>
