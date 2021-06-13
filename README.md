@@ -4,13 +4,9 @@
 
 <!-- Navbar links -->
 <p align='center'>
-	<a href="https://www.linkedin.com/in/lenargasimov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white"></a>
+	<a href="https://www.linkedin.com/in/lenargasimov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+	<a href="https://twitter.com/lenargasimov"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
-
-[![](https://img.shields.io/badge/About%20me-%20my%20site-brightgreen)](https://lenargasimov.dev/templates/about.html)
-[![](https://img.shields.io/badge/Blog-%20my%20blog-lightgrey)](https://lenar-blog.herokuapp.com)
-[![]()]()
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lenargasimov)
 
 <!-- Spotify -->
 <p align='center'>
