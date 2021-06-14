@@ -1,4 +1,4 @@
-<H1 align="center">
+<H1>
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="60px">Hello world! 
 </H1>
 
@@ -6,34 +6,14 @@
 
 <!-- Spotify -->
 
-<div align="center">
+<div>
 	<a href="#"><img src="https://spotify-recently-played-readme.vercel.app/api?user=lyc5820s2tgyaacnm646qlk8h"></a>
-</div>
-<!-- Navbar links -->
-
-### Find me elsewhere 🌎
-
-<div align="center">
-<a href="https://lenargasimov.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website/Blog-black?&style=for-the-badge&logo=website&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/lenargasimov/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-	<a href="https://twitter.com/lenargasimov" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://www.instagram.com/lenargasimov" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>
-  <a href="mailto:lenargasimovdev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
-  </a>
 </div>
 
 <!-- Technologies I know -->
 ### 💻 Technology Stack
 
-<div align="center">
+<div>
 	<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="devicon" />
 	<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="devicon" />
 	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="devicon" />	
@@ -63,7 +43,7 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:octocat: GitHub Stats</summary>
   <div align="center">
   <a href="https://github.com/lenargasimov">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenargasimov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -102,12 +82,29 @@
 <img align="" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 <img align="" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 
-### See more
-<p><a href="https://lenargasimov.dev/templates/cv.html">https://lenargasimov.dev/cv</p>
+➡️ [more...](https://lenargasimov.dev/templates/cv.html)
 	
 </details>
 
-<div align="center">
-  <a href="#"> <img src="https://komarev.com/ghpvc/?username=lenargasimov&label=Visits&color=0e75b6&style=flat" alt="lenargasimov" /></a> hipsters and nerds have come here :octocat:
-</div> 
+<!-- Navbar links -->
+
+### 🌎 Find me elsewhere 
+
+<div>
+<a href="https://lenargasimov.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website/Blog-black?&style=for-the-badge&logo=website&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lenargasimov/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+	<a href="https://twitter.com/lenargasimov" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.instagram.com/lenargasimov" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>
+  <a href="mailto:lenargasimovdev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+  </a>
+</div>
+
 
