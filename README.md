@@ -5,7 +5,6 @@
 <!-- - 🥅 2021 Goals: Contribute more to Open Source projects -->
 
 <!-- Spotify -->
-### Spotify Playing 🎧
 
 <div align="center">
 	<a href="#"><img src="https://spotify-recently-played-readme.vercel.app/api?user=lyc5820s2tgyaacnm646qlk8h"></a>
