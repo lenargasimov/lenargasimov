@@ -109,8 +109,6 @@
 </details>
 
 <div align="center">
-  :octocat:
+  <a href="#"> <img src="https://komarev.com/ghpvc/?username=lenargasimov&label=Visits&color=0e75b6&style=flat" alt="lenargasimov" /></a> hipsters and nerds have come here :octocat:
 </div> 
-
-
 
