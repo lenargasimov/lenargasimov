@@ -82,7 +82,8 @@
 <img align="" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 <img align="" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 	
----
+<br>
+<br>
 	
 - 👨‍💻 **Full-Stack Web Developer**\
 📆 2021 - ∞\
@@ -98,6 +99,8 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="devicon" />
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="devicon" />
 
+<br>
+<br>
 	
 ➡️ [more...](https://lenargasimov.dev/templates/cv.html)
 	
