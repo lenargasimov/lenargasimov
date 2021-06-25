@@ -1,11 +1,13 @@
 <H1>
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="60px">Hello world! 
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="60px">Hello world!
 </H1>
 
-<!-- - 🥅 2021 Goals: Contribute more to Open Source projects -->
+<p><em>Hi, I'm Lenar. I am a Python Developer. Interested in web frameworks and everything related to Python. I love to code and learning new stuff. 🎯 Completed #100DaysOfCode<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 <!-- Spotify -->
-
 <div>
 	<a href="#"><img src="https://spotify-recently-played-readme.vercel.app/api?user=lyc5820s2tgyaacnm646qlk8h"></a>
 </div>
@@ -36,7 +38,6 @@
 - [🥚 The Zen of Python. Easter egg.](https://lenar-blog.herokuapp.com/post/8)
 - [🐍 100 Days of Python The Complete Python Pro Bootcamp for 2021](https://lenar-blog.herokuapp.com/post/5)
 - [🏃‍♂️ 60. Atomic Habits. James Clear. Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones.](https://lenar-blog.herokuapp.com/post/7)
-- [🔥 Norwegian Wood: Chopping, Stacking, and Drying Wood the Scandinavian Way. Chop your wood and it will warm you twice.](https://lenar-blog.herokuapp.com/post/1)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://lenar-blog.herokuapp.com)
@@ -128,4 +129,9 @@
   </a>
 </div>
 
+<br>
+
+<p><em>
+   <a href="#"> <img src="https://komarev.com/ghpvc/?username=lenargasimov&label=Visits&color=0e75b6&style=flat" alt="lenargasimov" /></a> hipsters and nerds have come here <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+</em></p>
 
