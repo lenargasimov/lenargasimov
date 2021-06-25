@@ -2,6 +2,9 @@
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="60px">Hello world!
 </H1>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+
 <p><em>Hi, I'm Lenar. I am a Python Developer. Interested in web frameworks and everything related to Python. I love to code and learning new stuff. 🎯 Completed #100DaysOfCode<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
