@@ -1,5 +1,5 @@
 <H1>
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="60px">Hello world!
+Hello world!<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="60px">
 </H1>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
