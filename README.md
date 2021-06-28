@@ -130,9 +130,4 @@ Hello world!<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif
   </a>
 </div>
 
-<br>
-
-<p><em>
-   <a href="#"> <img src="https://komarev.com/ghpvc/?username=lenargasimov&label=Visits&color=0e75b6&style=flat" alt="lenargasimov" /></a> hipsters and nerds have come here <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-</em></p>
 
