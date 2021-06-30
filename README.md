@@ -1,9 +1,9 @@
+<samp>
 <H1>
 Hello world!<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="60px">
 </H1>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
 
 <p><em>I'm Lenar. I am a Python Developer. I specialize in full stack web development and writing readable code.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -33,20 +33,14 @@ Hello world!<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif
 	<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="devicon" />
 </div>
 
----
-
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
 - [👨‍💻 61. #The Self-Taught Programmer. The Definitive Gude to Programming Professionally. Cory Althoff.](https://lenar-blog.herokuapp.com/post/9)
 - [🥚 The Zen of Python. Easter egg.](https://lenar-blog.herokuapp.com/post/8)
 - [🐍 100 Days of Python The Complete Python Pro Bootcamp for 2021](https://lenar-blog.herokuapp.com/post/5)
 - [🏃‍♂️ 60. Atomic Habits. James Clear. Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones.](https://lenar-blog.herokuapp.com/post/7)
-<!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://lenar-blog.herokuapp.com)
-
----
 
 <details>
   <summary>:octocat: GitHub Stats</summary>
@@ -56,60 +50,6 @@ Hello world!<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenargasimov&layout=compact&langs_count=16&theme=dracula"/>
    </a>
   </div>
-</details>
-
-<!--  CV -->
-<details>
-  <summary>📃 CV</summary>
-
-## Education
-
-- 📖 **100 Days of Code - The Complete Python Pro Bootcamp for 2021**\
-📆 2021 - 2021\
-📍 **London App Brewery** - Udemy
-
-
-
-## Experience
-
-
-- 👨‍💻 **Junior Full-Stack Web Developer Internship**\
-📆 2020 - 2020\
-📍 **CodesFord** - Melbourne, Victoria, Australia
-
-<img alt="" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>	
-<img align="" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-	
-<br>
-<br>
-	
-- 👨‍💻 **Full-Stack Web Developer**\
-📆 2021 - ∞\
-📍 **Freelance** - 🏠 Working from home
-<img align="" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img align="" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="devicon" />
-<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="devicon" />
-
-<br>
-<br>
-	
-➡️ [more...](https://lenargasimov.dev/templates/cv.html)
-	
 </details>
 
 <!-- Navbar links -->
@@ -130,5 +70,5 @@ Hello world!<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif
     <img src="https://img.shields.io/badge/Yahoo-720e9e?style=for-the-badge&logo=yahoo&logoColor=white" />        
   </a>
 </div>
-
+</samp>
 
