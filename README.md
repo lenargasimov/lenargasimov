@@ -2,10 +2,10 @@
 Hello world!<img src="https://media.giphy.com/media/C0fJBtUsdG8KY/giphy.gif" width="40px">
 </H1>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
 <p><em>I'm Lenar. I am a Python Developer. I specialize in full stack web development and writing readable code.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+
+<img align='right' src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
