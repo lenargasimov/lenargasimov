@@ -1,6 +1,5 @@
-<samp>
 <H1>
-Hello world!<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="60px">
+Hello world!<img src="https://media.giphy.com/media/C0fJBtUsdG8KY/giphy.gif" width="40px">
 </H1>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -70,5 +69,4 @@ Hello world!<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif
     <img src="https://img.shields.io/badge/Yahoo-720e9e?style=for-the-badge&logo=yahoo&logoColor=white" />        
   </a>
 </div>
-</samp>
 
