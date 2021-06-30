@@ -38,6 +38,7 @@ Hello world!<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [👨‍💻 61. #The Self-Taught Programmer. The Definitive Gude to Programming Professionally. Cory Althoff.](https://lenar-blog.herokuapp.com/post/9)
 - [🥚 The Zen of Python. Easter egg.](https://lenar-blog.herokuapp.com/post/8)
 - [🐍 100 Days of Python The Complete Python Pro Bootcamp for 2021](https://lenar-blog.herokuapp.com/post/5)
 - [🏃‍♂️ 60. Atomic Habits. James Clear. Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones.](https://lenar-blog.herokuapp.com/post/7)
