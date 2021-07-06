@@ -78,7 +78,7 @@
 	    <img src="https://img.shields.io/badge/Yahoo-720e9e?style=for-the-badge&logo=yahoo&logoColor=white" />        
 	</a>
 	<a href="https://www.buymeacoffee.com/lenargasimov" target="_blank">
-	    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-00FA9A?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+	    <img alt="BuyMeACoffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 	</a>
 </div>
 
