@@ -1,20 +1,25 @@
-<H1>
-Hello world!<img src="https://octodex.github.com/images/heisencat.png" width="77px">
-</H1>
+### 👋 Hi there, nice to meet you. I'm Lenar Gasimov. Welcome to my GitHub!
 
-<p><em>I'm Lenar. I am a Python Developer. I specialize in full stack web development and writing readable code. 
-</em></p>
+
+<!-- About me -->
+<p>
+	<em>I am a Python Developer. I specialize in full stack web development and writing readable code.</em>
+</p>
+
 
 ###   A little more about me...  
 
+<!-- Heisencat -->
 <div>
-	<img align='right' src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif" width="350px">
+	<img align='right' src="https://octodex.github.com/images/heisencat.png" width="350px">
 </div>
+
 
 <!-- Spotify -->
 <div>
 	<a href="#"><img src="https://spotify-recently-played-readme.vercel.app/api?user=lyc5820s2tgyaacnm646qlk8h"></a>
 </div>
+
 
 <!-- Technologies I know -->
 ### 💻 Technology Stack
@@ -34,6 +39,7 @@ Hello world!<img src="https://octodex.github.com/images/heisencat.png" width="77
 	<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="devicon" />
 </div>
 
+
 <!-- ### 📕 Latest Blog Posts
 
 - [👨‍💻 61. #The Self-Taught Programmer. The Definitive Gude to Programming Professionally. Cory Althoff.](https://lenar-blog.herokuapp.com/post/9)
@@ -43,33 +49,36 @@ Hello world!<img src="https://octodex.github.com/images/heisencat.png" width="77
 
 ➡️ [more blog posts...](https://lenar-blog.herokuapp.com) -->
 
-<!-- GitHub stats -->
 
+<!-- GitHub stats -->
 ### :octocat: GitHub Stats
 
-  <div>
-  <a href="https://github.com/lenargasimov">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenargasimov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenargasimov&layout=compact&langs_count=16&theme=dracula"/>
-   </a>
-  </div>
+<div>
+  	<a href="https://github.com/lenargasimov">
+    	    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenargasimov&show_icons=true&include_all_commits=true&count_private=true"/>
+    	    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenargasimov&layout=compact&langs_count=16"/>
+   	</a>
+</div>
+
 
 <!-- Navbar links -->
-
 ### 🌎 Find me elsewhere 
 
 <div>
 	<a href="https://lenargasimov.dev" target="_blank">
 	    <img src="https://img.shields.io/badge/Website/Blog-black?&style=for-the-badge&logo=website&logoColor=white" />
 	</a>
-	<a href="https://www.linkedin.com/in/lenargasimov/" target="_blank">
-	    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
 	<a href="https://twitter.com/lenargasimov" target="_blank">
 	    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 	</a>
+	<a href="https://www.linkedin.com/in/lenargasimov/" target="_blank">
+	    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
 	<a href="mailto:lenargasimov@yahoo.com" target="_blank">
 	    <img src="https://img.shields.io/badge/Yahoo-720e9e?style=for-the-badge&logo=yahoo&logoColor=white" />        
+	</a>
+	<a href="https://www.buymeacoffee.com/lenargasimov" target="_blank">
+	    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-00FA9A?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 	</a>
 </div>
 
