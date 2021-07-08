@@ -11,7 +11,7 @@
 
 <!-- Heisencat -->
 <div>
-	<img align='right' src="https://octodex.github.com/images/heisencat.png" width="300px">
+	<img align='right' src="https://octodex.github.com/images/heisencat.png" width="250px">
 </div>
 
 
