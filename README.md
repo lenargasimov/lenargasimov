@@ -1,5 +1,4 @@
-### 👋 Hi there, nice to meet you. I'm Lenar Gasimov. Welcome to my GitHub!
-
+### Hi, I'm Lenar Gasimov 👋
 
 <!-- About me -->
 <p>
