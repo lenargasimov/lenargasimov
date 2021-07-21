@@ -54,8 +54,8 @@
 
 <div>
   	<a href="https://github.com/lenargasimov">
-    	    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenargasimov&show_icons=true&include_all_commits=true&count_private=true"/>
-    	    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenargasimov&layout=compact&langs_count=16"/>
+    	    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenargasimov&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=212121"/>
+    	    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenargasimov&layout=compact&langs_count=16&theme=dark&bg_color=212121"/>
    	</a>
 </div>
 
