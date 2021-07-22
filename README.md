@@ -9,9 +9,9 @@
 ###   A little more about me...  
 
 <!-- Heisencat -->
-<div>
+<!-- <div>
 	<img align='right' src="https://octodex.github.com/images/heisencat.png" width="250px">
-</div>
+</div> -->
 
 
 <!-- Spotify -->
