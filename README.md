@@ -49,17 +49,6 @@
 ➡️ [more blog posts...](https://lenar-blog.herokuapp.com) -->
 
 
-<!-- GitHub stats -->
-### :octocat: GitHub Stats
-
-<div>
-  	<a href="https://github.com/lenargasimov">
-    	    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenargasimov&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=212121"/>
-    	    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenargasimov&layout=compact&langs_count=16&theme=dark&bg_color=212121"/>
-   	</a>
-</div>
-
-
 <!-- Navbar links -->
 ### 🌎 Find me elsewhere 
 
@@ -79,5 +68,16 @@
 	<a href="https://www.buymeacoffee.com/lenargasimov" target="_blank">
 	    <img alt="BuyMeACoffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 	</a>
+</div>
+
+
+<!-- GitHub stats -->
+### :octocat: GitHub Stats
+
+<div>
+  	<a href="https://github.com/lenargasimov">
+    	    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenargasimov&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=212121"/>
+    	    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenargasimov&layout=compact&langs_count=16&theme=dark&bg_color=212121"/>
+   	</a>
 </div>
 
