@@ -40,7 +40,7 @@
 
 ### My WakaTime Coding Activity
 
-<img src="https://github.com/lenargasimov/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
+<img src="https://github.com/lenargasimov/lenargasimov/blob/main/images/stat.svg" alt="Lenar WakaTime Activity"/>
 
 <details> 
   <summary>:octocat: My GitHub Stats</summary> 
