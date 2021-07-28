@@ -1,83 +1,49 @@
-### Hello there 👋
-
-<!-- About me -->
-<p>
-	I'm Lenar. I am a Python Developer. I specialize in full stack web development and writing readable code.
-</p>
-
-
-###   A little more about me...  
-
-<!-- Heisencat -->
-<!-- <div>
-	<img align='right' src="https://octodex.github.com/images/heisencat.png" width="250px">
-</div> -->
-
-
+### Spotify Playing Now 
 <!-- Spotify -->
 <div>
 	<a href="#"><img src="https://spotify-recently-played-readme.vercel.app/api?user=lyc5820s2tgyaacnm646qlk8h"></a>
 </div>
 
+### I'm a Python Developer.
+- 🧙‍♂️ I’m currently learning a [Практический курс для новичков по SQL и PostgreSQL][udemy]
+- 🎧 I like listening to music
+- 🔎 I’m looking to collaborate with other content creators
+- 🏁 2022 Goals: Contribute more to Open Source projects
+- 💯 My hobby is to play games, coding and design anything
+- 🐶 Yeah i don't have work experience cause im nitpicky
+  
+### Connect with me
+[<img align="left" alt="Lenar Gasimov | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Lenar Gasimov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Lenar Gasimov | Yahoo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />][yahoo]
 
-<!-- Technologies I know -->
-### 💻 Technology Stack
+<br />
 
-<div>
-	<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="devicon" />
-	<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="devicon" />
-	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="devicon" />	
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-	<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<!-- 	<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="devicon" /> -->
-	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="devicon" />
-	<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-	<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="devicon" />
-<!-- 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="devicon" /> -->
-<!-- 	<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="devicon" /> -->
-<!-- 	<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="devicon" /> -->
-</div>
+### Languages and Tools
 
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png" />
+<img align="left" alt="Flask" width="26px" src="https://simpleicons.org/icons/flask.svg" />
+<img align="left" alt="Postgre" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Command line" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<br />
 
-<!-- ### 📕 Latest Blog Posts
+### My WakaTime Coding Activity
+<img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
+Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
 
-- [👨‍💻 61. #The Self-Taught Programmer. The Definitive Gude to Programming Professionally. Cory Althoff.](https://lenar-blog.herokuapp.com/post/9)
-- [🥚 The Zen of Python. Easter egg.](https://lenar-blog.herokuapp.com/post/8)
-- [🐍 100 Days of Python The Complete Python Pro Bootcamp for 2021](https://lenar-blog.herokuapp.com/post/5)
-- [🏃‍♂️ 60. Atomic Habits. James Clear. Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones.](https://lenar-blog.herokuapp.com/post/7)
+<details> 
+  <summary>📊 My Github Stats</summary> 
+  <br>
+  
+  [![lenargasimov stats](https://github-readme-stats.vercel.app/api?username=lenargasimov&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/lenargasimov/github-readme-stats)
+</details>
 
-➡️ [more blog posts...](https://lenar-blog.herokuapp.com) -->
-
-
-<!-- Navbar links -->
-### 🌎 Find me elsewhere 
-
-<div>
-	<a href="https://lenargasimov.dev" target="_blank">
-	    <img src="https://img.shields.io/badge/Website/Blog-black?&style=for-the-badge&logo=website&logoColor=white" />
-	</a>
-	<a href="https://twitter.com/lenargasimov" target="_blank">
-	    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-	</a>
-	<a href="https://www.linkedin.com/in/lenargasimov/" target="_blank">
-	    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="mailto:lenargasimov@yahoo.com" target="_blank">
-	    <img src="https://img.shields.io/badge/Yahoo-720e9e?style=for-the-badge&logo=yahoo&logoColor=white" />        
-	</a>
-	<a href="https://www.buymeacoffee.com/lenargasimov" target="_blank">
-	    <img alt="BuyMeACoffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-	</a>
-</div>
-
-
-<!-- GitHub stats -->
-### :octocat: GitHub Stats
-
-<div>
-  	<a href="https://github.com/lenargasimov">
-    	    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenargasimov&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=212121"/>
-    	    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenargasimov&layout=compact&langs_count=16&theme=dark&bg_color=212121"/>
-   	</a>
-</div>
+[udemy]: https://www.udemy.com/course/bestpostgres/
+[twitter]: https://twitter.com/lenargasimov/
+[linkedin]: https://www.linkedin.com/in/lenargasimov/
+[yahoo]: mailto:lenargasimov@yahoo.com
 
