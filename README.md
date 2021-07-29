@@ -3,10 +3,9 @@
 
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
-  <br>
 	
 ## <samp> I'm a Python Developer👨‍💻. </samp></h4></p>
-###### EAT🥣 ‹-› CODE💻 ‹-› SLEEP😴 ‹-› REPEAT🔁  
+###### READ📖 ‹-› EAT🥣 ‹-› CODE💻 ‹-› SLEEP😴 ‹-› REPEAT🔁  
 
 - 🧙‍♂️ <samp>I’m currently learning a [Практический курс для новичков по SQL и PostgreSQL][udemy]
 - 🎧 <samp><samp><samp>I like listening to music
@@ -33,36 +32,40 @@
 ![](https://camo.githubusercontent.com/b13ed67c809178963ce9d538175b02649800772be1ce0cb02da5879e5614e236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465)
 <br> 
 <br> 
- 
-
-
 
 <br>
 <br>
 <br>
 <br>
 	
+
+<!-- Heisencat -->
+<img align='right' src="https://octodex.github.com/images/heisencat.png" width="250px">
+	
+	
 <!-- Spotify -->
 ### Spotify Playing 🎧
-
+	
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=lyc5820s2tgyaacnm646qlk8h)
 
 <br>  
+	
+<div align='center'>
+	<a href="https://lenargasimov.dev" target="_blank">
+	    <img src="https://img.shields.io/badge/Website/Blog-black?&style=for-the-badge&logo=website&logoColor=white" />
+	</a>
+	<a href="https://twitter.com/lenargasimov" target="_blank">
+	    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+	</a>
+	<a href="https://www.linkedin.com/in/lenargasimov/" target="_blank">
+	    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+	<a href="mailto:lenargasimov@yahoo.com" target="_blank">
+	    <img src="https://img.shields.io/badge/Yahoo-720e9e?style=for-the-badge&logo=yahoo&logoColor=white" />        
+	</a>
+	<a href="https://www.buymeacoffee.com/lenargasimov" target="_blank">
+	    <img alt="BuyMeACoffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+	</a>
+</div>
+	
 
-##
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/lenargasimov/count.svg" />
-</p>
-  
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
-
-
-
-
-[udemy]: https://www.udemy.com/course/bestpostgres/
-[twitter]: https://twitter.com/lenargasimov/
-[linkedin]: https://www.linkedin.com/in/lenargasimov/
-[yahoo]: mailto:lenargasimov@yahoo.com
-[buymeacoffee]: https://www.buymeacoffee.com/lenargasimov
-[spotify]: https://open.spotify.com/playlist/3dFTeqPpqOTZ8nxqvKd6O2?si=dc4be5da32ed4c65
