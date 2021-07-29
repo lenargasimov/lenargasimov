@@ -39,8 +39,8 @@
 <br>	
 	
 <!-- Spotify -->	
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=lyc5820s2tgyaacnm646qlk8h&width=500) 
-<img src="https://github.com/FrozRt/FrozRt/blob/master/proger.gif" height='225' width='375' border="0" align="right" alt="side Image" /> &nbsp;  
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=lyc5820s2tgyaacnm646qlk8h) 
+<img src="https://github.com/FrozRt/FrozRt/blob/master/proger.gif" width='40%' border="0" align="right" alt="side Image" /> &nbsp;  
 
 <br>  
 	
