@@ -4,12 +4,12 @@
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
 	
-## <samp> I'm a Python Developer👨‍💻. </samp></h4></p>
+## <samp> I'm a Python Developer👨‍💻. </samp>
 ###### READ📖 ‹-› EAT🥣 ‹-› CODE💻 ‹-› SLEEP😴 ‹-› REPEAT🔁  
 
 - 🧙‍♂️ <samp>I’m currently learning a [Практический курс для новичков по SQL и PostgreSQL][udemy]
-- 🎧 <samp><samp><samp>I like listening to music
-- 🔎 <samp><samp>I’m looking to collaborate with other developers
+- 🎧 <samp>I like listening to music
+- 🔎 <samp>I’m looking to collaborate with other developers
 - 🏁 <samp>2022 Goals: Contribute more to Open Source projects
 - 💯 <samp>I enjoy reading, to code and learning new stuff. It's all simple.
 - 💼 <samp>I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
@@ -21,7 +21,7 @@
 <img align="left" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height='225' width='375'/> 
 
 
-### 💻 Technology Stack:
+### 💻 <samp> Technology Stack: </samp>
 
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![flask](https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white)
@@ -39,7 +39,7 @@
 <br>	
 	
 <!-- Spotify -->
-### Spotify Recently Played 🎧
+### <samp> Spotify Recently Played 🎧 </samp>
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=lyc5820s2tgyaacnm646qlk8h) 
 <img src="https://github.com/FrozRt/FrozRt/blob/master/proger.gif" width='40%' border="0" align="right" alt="side Image" /> &nbsp;  
 
