@@ -39,11 +39,11 @@
 <br>	
 	
 <!-- Spotify -->
-### <samp> Spotify Recently Played 🎧 </samp>
+<!-- ### <samp> Spotify Recently Played 🎧 </samp>
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=lyc5820s2tgyaacnm646qlk8h) 
 <img src="https://github.com/FrozRt/FrozRt/blob/master/proger.gif" width='40%' border="0" align="right" alt="side Image" /> &nbsp;  
 
-<br>  
+<br>   -->
 	
 <div align='center'>
 	<a href="https://lenargasimov.dev" target="_blank">
