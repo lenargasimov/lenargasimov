@@ -2,14 +2,13 @@
 
 
 <div>
-<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width='375'/>
 	
 ## <samp> I'm a Python Developer👨‍💻. </samp>
 ###### READ📖 ‹-› EAT🥣 ‹-› CODE💻 ‹-› SLEEP😴 ‹-› REPEAT🔁  
 
 - 🧙‍♂️ <samp>I’m currently learning a [Практический курс для новичков по SQL и PostgreSQL][udemy]
-- 🎧 <samp>I like listening to music
-- 🔎 <samp>I’m looking to collaborate with other developers
+- 🎯 <samp>Completed [#100DaysOfCode][github]
 - 🏁 <samp>2022 Goals: Contribute more to Open Source projects
 - 💯 <samp>I enjoy reading, to code and learning new stuff. It's all simple.
 - 💼 <samp>I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
@@ -64,4 +63,4 @@
 </div>
 	
 [udemy]: https://www.udemy.com/course/bestpostgres/
-
+[github]: https://github.com/lenargasimov/100-days-of-python
