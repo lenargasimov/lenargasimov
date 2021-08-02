@@ -17,7 +17,7 @@
 <br>
 <br>
 
-<img align="left" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height='225' width='375'/> 
+<img align="left" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width='375'/> 
 
 
 ### 💻 <samp> Technology Stack: </samp>
