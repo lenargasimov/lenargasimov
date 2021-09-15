@@ -20,7 +20,7 @@
 <img align="left" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width='375'/> 
 
 
-### 💻 <samp> Technology Stack: </samp>
+## 💻 <samp> Technology Stack: </samp>
 
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
