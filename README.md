@@ -4,7 +4,8 @@
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width='375'/>
 	
-## <samp> I'm a Python Developer👨‍💻. </samp>
+## <samp> I'm a Python Developer👨‍💻. </samp> 	![](https://www.codewars.com/users/lenargasimov/badges/micro)
+
 ###### READ📖 ‹-› EAT🥣 ‹-› CODE💻 ‹-› SLEEP😴 ‹-› REPEAT🔁  
 
 - 🧙‍♂️ <samp>I’m currently learning a [Практический курс для новичков по SQL и PostgreSQL][udemy]
