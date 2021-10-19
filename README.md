@@ -58,8 +58,11 @@
 	<a href="https://www.linkedin.com/in/lenargasimov/" target="_blank">
 	    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="mailto:lenargasimov@yahoo.com" target="_blank">
-	    <img src="https://img.shields.io/badge/Yahoo-720e9e?style=for-the-badge&logo=yahoo&logoColor=white" />        
+	<a href="mailto:lenargasimovdev@gmail.com" target="_blank">
+	    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />   
+	</a>
+	<a href="https://www.codewars.com/users/lenargasimov" target="_blank">
+	    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />   
 	</a>
 </div>
 	
