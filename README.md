@@ -9,7 +9,8 @@
  -->
 <!-- ###### READ📖 ‹-› EAT🥣 ‹-› CODE💻 ‹-› SLEEP😴 ‹-› REPEAT🔁  
  -->
-- 🧙‍♂️ <samp>I’m currently learning a [Практический курс для новичков по SQL и PostgreSQL][udemy]
+- 🧙‍♂️ <samp>I’m currently learning a [Практический курс для новичков по SQL и PostgreSQL][udemy] and 
+	[Тестировщик-простой вход в программирование][cok]
 - 🎯 <samp>Completed [#100DaysOfCode][github]
 - 🏁 <samp>2022 Goals: Contribute more to Open Source projects
 - 💯 <samp>I enjoy reading, to code and learning new stuff. It's all simple.
@@ -67,4 +68,5 @@
 </div>
 	
 [udemy]: https://www.udemy.com/course/bestpostgres/
+[cok]: https://cat.2035.university/rall/course/11291/?project_id=41
 [github]: https://github.com/lenargasimov/100-days-of-python
