@@ -62,9 +62,6 @@
 	<a href="mailto:lenargasimovdev@gmail.com" target="_blank">
 	    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />   
 	</a>
-	<a href="https://www.codewars.com/users/lenargasimov" target="_blank">
-	    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />   
-	</a>
 </div>
 	
 [udemy]: https://www.udemy.com/course/bestpostgres/
