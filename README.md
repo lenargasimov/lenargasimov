@@ -4,17 +4,17 @@
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width='375'/>
 	
-## <samp> I'm a Python Developer👨‍💻. </samp> 	
+## I'm a Python Developer👨‍💻. 	
 <!-- 	![](https://www.codewars.com/users/lenargasimov/badges/micro)
  -->
 <!-- ###### READ📖 ‹-› EAT🥣 ‹-› CODE💻 ‹-› SLEEP😴 ‹-› REPEAT🔁  
  -->
-- 🧙‍♂️ <samp>I’m currently learning a [Практический курс для новичков по SQL и PostgreSQL][udemy] and 
+- 🧙‍♂️ I’m currently learning a [Практический курс для новичков по SQL и PostgreSQL][udemy] and 
 	[Тестировщик-простой вход в программирование][cok]
-- 🎯 <samp>Completed [#100DaysOfCode][github]
-- 🏁 <samp>2022 Goals: Contribute more to Open Source projects
-- 💯 <samp>I enjoy reading, to code and learning new stuff. It's all simple.
-- 💼 <samp>I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
+- 🎯 Completed [#100DaysOfCode][github]
+- 🏁 2022 Goals: Contribute more to Open Source projects
+- 💯 I enjoy reading, to code and learning new stuff. It's all simple.
+- 💼 I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
 
 
 <br>
@@ -23,7 +23,7 @@
 <img align="left" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width='375'/> 
 
 
-## 💻 <samp> Technology Stack: </samp>
+## 💻 Technology Stack:
 
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
