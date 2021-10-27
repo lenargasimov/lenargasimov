@@ -13,9 +13,10 @@
 	[Тестировщик-простой вход в программирование][cok]
 - 🎯 Completed [#100DaysOfCode][github]
 - 🏁 2022 Goals: Contribute more to Open Source projects
+- 💯 I enjoy reading, to code and learning new stuff. It's all simple.
 - 💼 I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
 
-
+<br>
 <br>
 <br>
 
