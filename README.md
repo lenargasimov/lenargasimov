@@ -4,7 +4,8 @@
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width='375'/>
 	
-## I'm a Python Developer👨‍💻. 	
+## I'm a Python Developer &#129399;
+. 	
 <!-- 	![](https://www.codewars.com/users/lenargasimov/badges/micro)
  -->
 <!-- ###### READ📖 ‹-› EAT🥣 ‹-› CODE💻 ‹-› SLEEP😴 ‹-› REPEAT🔁  
