@@ -4,7 +4,7 @@
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width='375'/>
 	
-## Hi 👋, I'm Lenar. A passionate Python Developer &#129399;. 	
+### Hi 👋, I'm Lenar. A passionate Python Developer &#129399;. 	
 <!-- 	![](https://www.codewars.com/users/lenargasimov/badges/micro)
  -->
 <!-- ###### READ📖 ‹-› EAT🥣 ‹-› CODE💻 ‹-› SLEEP😴 ‹-› REPEAT🔁  
@@ -22,7 +22,7 @@
 <img align="left" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width='375'/> 
 
 
-## 💻 Technology Stack:
+### 💻 Technology Stack:
 
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
