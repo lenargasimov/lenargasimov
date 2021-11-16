@@ -12,6 +12,7 @@ A Python Developer &#129399;. I specialize in full stack web development and wri
 <br>
 <br>
 <br>
+<br>
 
 
 <img align="left" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width='350'/> 
