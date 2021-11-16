@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/49686277/109705521-4e6b1300-7bb1-11eb-8380-48681240721a.png" alt="cover" />
 
 
-<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width='375'/>
+<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width='350'/>
 
 # Hi, I'm Lenar 👋 
 A Python Developer &#129399;. I specialize in full stack web development and writing readable code. Сompleted [#100DaysOfCode][github]. I enjoy reading, to code and learning new stuff. It's all simple.
@@ -11,10 +11,8 @@ A Python Developer &#129399;. I specialize in full stack web development and wri
 <br>
 <br>
 <br>
-<br>
-<br>
 
-<img align="left" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width='375'/> 
+<img align="left" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width='350'/> 
 
 
 ### 💻 Technology Stack:
