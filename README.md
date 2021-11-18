@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/49686277/109705521-4e6b1300-7bb1-11eb-8380-48681240721a.png" alt="cover" />
 
-
+<!-- 
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width='350'/>
 
 # Hi, I'm Lenar 👋 
@@ -36,8 +36,8 @@ A Python Developer &#129399;. I specialize in full stack web development and wri
 <br>
 <br>
 <br>
-<br>	
-	
+<br>	 -->
+<p align='center'>Thanks for checking out my GitHub!</p>
 	
 <div align='center'>
 	<a href="https://t.me/joinchat/lenargasimov" target="_blank">
@@ -51,4 +51,5 @@ A Python Developer &#129399;. I specialize in full stack web development and wri
 	</a>
 </div>
 	
-[github]: https://github.com/lenargasimov/100-days-of-python
+<!-- [github]: https://github.com/lenargasimov/100-days-of-python
+ -->
