@@ -40,7 +40,7 @@ A Python Developer &#129399;. I specialize in full stack web development and wri
 <p align='center'>Thanks for checking out my GitHub!</p>
 	
 <div align='center'>
-	<a href="https://t.me/joinchat/lenargasimov" target="_blank">
+	<a href="https://t.me/lenargasimov" target="_blank">
 	    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />   
 	</a>
 	<a href="https://www.linkedin.com/in/lenargasimov/" target="_blank">
