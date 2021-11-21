@@ -46,8 +46,8 @@ A Python Developer &#129399;. I specialize in full stack web development and wri
 	<a href="https://www.linkedin.com/in/lenargasimov/" target="_blank">
 	    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="mailto:lenargasimovdev@gmail.com" target="_blank">
-	    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />   
+	<a href="mailto:lenargasimov@duck.com" target="_blank">
+	    <img src="https://img.shields.io/badge/email-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white" />   
 	</a>
 </div>
 	
