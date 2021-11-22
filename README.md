@@ -37,7 +37,7 @@ A Python Developer &#129399;. I specialize in full stack web development and wri
 <br>
 <br>
 <br>	 -->
-<p align='center'>Thanks for checking out my GitHub!</p>
+<p align='center'>👋 Hi there, nice to meet you. I'm Lenar Gasimov. Welcome to my GitHub!</p>
 	
 <div align='center'>
 	<a href="https://t.me/lenargasimov" target="_blank">
