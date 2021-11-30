@@ -10,20 +10,8 @@ I'm Lenar.
 
 <p><img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=lyc5820s2tgyaacnm646qlk8h" /></p>  
 
-<p><a href="https://www.twitter.com/lenargasimov"><img align="left" src="https://github-readme-twitter-gazf.vercel.app/api?id=lenargasimov&amp;layout=wide" alt="github-readme-twitter"></a></p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<div align="center">
+<p><a href="https://www.twitter.com/lenargasimov"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=lenargasimov&amp;layout=wide" alt="github-readme-twitter"></a></p>
+</div>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
