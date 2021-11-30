@@ -50,7 +50,7 @@
 
 
 <div align='center'>
-	<h2>📫 Reach me on</h2>
+	<h2>📮 Reach me on</h2>
 	<a href="https://twitter.com/lenargasimov" target="_blank">
 	    <img src="twitter.svg" height="32" width="32"/>   
 	</a>
