@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/49686277/109705521-4e6b1300-7bb1-11eb-8380-48681240721a.png" alt="cover" />
 
-<p align="center">👋 Hi there, nice to meet you. I'm Lenar Gasimov. Welcome to my GitHub!</p>
+<h3 align="center">👋 Hi there, nice to meet you. I'm Lenar Gasimov. Welcome to my GitHub!</h3>
 
 
 
