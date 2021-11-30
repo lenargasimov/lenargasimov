@@ -60,7 +60,4 @@
 	<a href="mailto:lenargasimov@duck.com" target="_blank">
 	    <img src="duckduckgo.svg" height="32" width="32"/>   
 	</a>
-	<a href="https://www.patreon.com/user?u=65494239" target="_blank">
-	    <img src="patreon.svg" height="32" width="32"/>   
-	</a>
 </div>
