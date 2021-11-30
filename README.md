@@ -12,12 +12,3 @@ I'm Lenar.
 <div align="center">
 <p><a href="https://www.twitter.com/lenargasimov"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=lenargasimov&amp;layout=wide" alt="github-readme-twitter"></a></p>
 </div>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-<h1 align='center'><i>Stay awesome!</i></h1>
