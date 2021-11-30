@@ -2,6 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/49686277/109705521-4e6b1300-7bb1-11eb-8380-48681240721a.png" alt="cover" />
 
+<hr>
 
 <div align="center">
 	<h2>🚀 Some Tools I Use</h2>
