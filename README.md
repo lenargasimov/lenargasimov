@@ -40,5 +40,13 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="travis" width="40" height="40" />
 </div>
 
+<br>
 
+<div align="center">
+	<p><i>Hope you enjoy the Christmas eve with the ones you love and step into the new year with lots of happiness and good health. Wishing you a merry Christmas and a very happy new year! <br>
+		<br>
+		Warmest wishes, <br>
+		Lenar Gasimov.</i></p>
+	<img src="winter.gif"/>
+</div>
 
