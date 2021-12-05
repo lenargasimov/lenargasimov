@@ -1,4 +1,4 @@
-[![Social banner for lenargasimov](header.png)](https://lenargasimov.dev)
+[![Social banner for lenargasimov](header-fullsize-notext.png)](https://lenargasimov.dev)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Lenar.
