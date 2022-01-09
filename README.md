@@ -1,2 +1,1 @@
-![](https://spotify-recently-played-readme.vercel.app/api?user=lyc5820s2tgyaacnm646qlk8h)  
-
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&width=600)
